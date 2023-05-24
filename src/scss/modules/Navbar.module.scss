@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.navbar-menu {
+  display: flex;
+  gap: 3rem;
+}
+
+.navbar-icon-active {
+  color: $green;
+}
