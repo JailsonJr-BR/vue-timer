@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
-import './style.css'
 import App from './App.vue'
+import '@/scss/style.scss'
+
 import 'typeface-roboto'
 import 'typeface-roboto-mono'
 
